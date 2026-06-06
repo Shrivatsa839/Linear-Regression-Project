@@ -1,0 +1,78 @@
+# Linear Regression on California Housing Dataset
+
+## Project Overview
+
+This project demonstrates the implementation of a Linear Regression model using Python and Scikit-Learn to predict housing prices based on various features from the California Housing dataset.
+
+The project covers the complete machine learning workflow, including data preprocessing, feature scaling, train-test splitting, model training, cross-validation, prediction, and performance evaluation.
+
+## Objectives
+
+* Understand the fundamentals of Linear Regression.
+* Learn how to preprocess real-world datasets.
+* Implement feature scaling using StandardScaler.
+* Train and evaluate a regression model.
+* Visualize model performance and prediction errors.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Jupyter Notebook
+
+## Machine Learning Workflow
+
+1. Data Collection
+2. Data Exploration
+3. Feature Selection
+4. Train-Test Split
+5. Data Standardization
+6. Model Training
+7. Cross Validation
+8. Prediction
+9. Model Evaluation
+10. Visualization
+
+## Evaluation Metrics
+
+The model was evaluated using:
+
+* R² Score
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* Cross Validation Score
+
+## Visualizations
+
+* Actual vs Predicted Values
+* Residual Distribution Plot
+* Error Analysis
+
+## Learning Outcomes
+
+Through this project, I gained practical experience with:
+
+* Data preprocessing techniques
+* Feature scaling
+* Regression modeling
+* Model evaluation
+* Data visualization
+* Scikit-Learn workflows
+
+## Future Improvements
+
+* Ridge Regression
+* Lasso Regression
+* Feature Engineering
+* Hyperparameter Tuning
+* Advanced Regression Models
+
+## Author
+
+Shrivatsa Khandare
+
+Aspiring AI/ML Engineer | Python Enthusiast | Engineering Student
