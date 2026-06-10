@@ -1,0 +1,24 @@
+Dataset Name: California Housing Dataset
+
+Source:
+Scikit-Learn Built-in Dataset
+
+Description:
+The California Housing dataset contains information collected from the 1990 California census. The dataset is commonly used for regression tasks where the objective is to predict median house values based on demographic and geographic features.
+
+Features:
+
+* MedInc
+* HouseAge
+* AveRooms
+* AveBedrms
+* Population
+* AveOccup
+* Latitude
+* Longitude
+
+Target:
+Median House Value
+
+Problem Type:
+Supervised Machine Learning - Regression
